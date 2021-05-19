@@ -3,4 +3,4 @@ Ios Math Game. While there is time left, count simple expression and enter your 
 # In Game Footage
 ![example](count.jpeg)
 # Sample Video
-count.m4v
+count.mov
